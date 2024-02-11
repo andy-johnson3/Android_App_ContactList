@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "891679143229",
+    "project_id": "mycontactlist-c9763",
+    "storage_bucket": "mycontactlist-c9763.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891679143229:android:48cb6a32d467e5cd710154",
+        "android_client_info": {
+          "package_name": "edu.lakeland.mycontactlist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvH8CoQ_6pPBJXl0HTSWoywS4MwhRYtaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
